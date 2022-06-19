@@ -1,0 +1,1 @@
+<h1>view hien thi trang edit product</h1>
